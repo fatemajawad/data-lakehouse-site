@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌩️ Cloud Native Data Lakehouse — Portfolio Project
 
-## Getting Started
+An advanced cloud-native data analytics portfolio project showcasing an end-to-end **Data Lakehouse architecture** built with **AWS S3, Databricks, Spark, dbt, Redshift, and Airflow**.  
+The project is presented as a live **interactive dashboard** built with **Next.js**, **Recharts**, and **Framer Motion**, visualizing enterprise KPIs and insights.
 
-First, run the development server:
+## 🚀 Features
+- Unified **200M+ enterprise records** across sales, supply chain, and marketing data.
+- **Interactive analytics dashboards** (Revenue trends, Category performance, Regional mix, KPIs).
+- **Multi-zone Lakehouse**: S3 (Bronze) → Databricks (Silver) → Redshift + dbt (Gold).
+- Automated pipelines using **Airflow, Glue, and Terraform** for orchestration and infra setup.
+- Fully responsive, cloud-hosted front-end built on **Next.js** and **TailwindCSS**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🧠 Tech Stack
+- **Frontend:** Next.js 14, TypeScript, Recharts, TailwindCSS, Framer Motion  
+- **Data Platform:** AWS S3, Databricks, Redshift, dbt, Spark, Airflow, Terraform  
+- **Visualization:** Power BI, QuickSight (backend), Recharts (frontend)  
+- **Deployment:** Vercel, GitHub Actions CI/CD  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📊 Live Demo
+👉 [Deployed Site (Vercel)](https://data-lakehouse-site.vercel.app/projects/data-lakehouse) *(replace with your link once deployed)*  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📁 Folder Structure
