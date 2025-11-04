@@ -17,6 +17,8 @@ The project is presented as a live **interactive dashboard** built with **Next.j
 - **Deployment:** Vercel, GitHub Actions CI/CD  
 
 ## 📊 Live Demo
-👉 [This is the site](https://data-lakehouse-site.vercel.app/projects/data-lakehouse)  
+👉 [View Project on Vercel](https://data-lakehouse-site.vercel.app/projects/data-lakehouse)  
+**This Cloud-Native Data Lakehouse Portfolio demonstrates real-time analytics using **Next.js, Recharts, AWS, Databricks, Airflow, dbt, and Power BI**.  
+It visualizes unified enterprise data with interactive dashboards and layered architecture (Bronze–Silver–Gold).**
 
 ## 📁 Folder Structure
