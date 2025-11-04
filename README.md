@@ -17,6 +17,6 @@ The project is presented as a live **interactive dashboard** built with **Next.j
 - **Deployment:** Vercel, GitHub Actions CI/CD  
 
 ## 📊 Live Demo
-👉 [Deployed Site (Vercel)](https://data-lakehouse-site.vercel.app/projects/data-lakehouse) *(replace with your link once deployed)*  
+👉 [This is the site](https://data-lakehouse-site.vercel.app/projects/data-lakehouse)  
 
 ## 📁 Folder Structure
